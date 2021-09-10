@@ -1,5 +1,4 @@
-discord-ext-alternatives
-discord
+discord.py==1.3.3
 from discord.ext import commands
 from discord.ext import tasks
 import sqlite3
